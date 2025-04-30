@@ -16,7 +16,7 @@ A FastAPI-based chatbot using Google Gemini AI with a responsive frontend.
 
 ## 📌 Installation  
 ```sh
-git clone https://github.com/your-username/llm-app.git
+git clone https://github.com/sivareddy2309/llm-app.git
 cd llm-app/backend
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
